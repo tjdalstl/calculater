@@ -7,8 +7,13 @@ int main(void)
 	{
 		sum = 1+sum;
 		printf("%d", sum);
+<<<<<<< HEAD
 		printf("adfasdgf");
 		printf("sourcetree");
+=======
+		printf("agdasdgadsr");
+		printf("github");
+>>>>>>> print
 	}
 	return 0;
 }
