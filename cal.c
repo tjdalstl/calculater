@@ -7,6 +7,7 @@ int main(void)
 	{
 		sum = 1+sum;
 		printf("%d", sum);
+		printf("adfasdgf");
 	}
 	return 0;
 }
